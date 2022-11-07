@@ -8,7 +8,7 @@
 	de cuyo nombre no quiero acordarme... la LIBFT.</p>
 	<p align="left">Este proyecto trata de crar una libreria propia, recreando algunas de las funciones básicas 
 	incluidas en librerias de uso frecuente y común como la libreria "string.c" o la implementación de algunas
-	que o bien no forman parte de ninguna libreía o su funcionamiento es recreado siguiendo unas pautas concretas, 
+	que o bien no forman parte de ninguna librería o su funcionamiento es recreado siguiendo unas pautas concretas, 
 	la gran mayoría de funciones tratan a cerca del manejo de strings y memoria, la conpresión del uso de punteros, etc.</p>
 	<p align=left">Dicho proyecto consta de tres partes, siendo dos de ellas obligatorias y una tercera parte bonus, 
 	para completar la primera parte, se han de recrear funciones siguiendo el manual <b><i>(RTFM) -- (man &ltfunction-name&gt)</i></b>.
