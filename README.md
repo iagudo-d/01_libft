@@ -4,7 +4,7 @@
 <div>
 	<br/>
 	<p align="left">Este repositorio contiene el trabajo de mi primer proyecto del cursus en 42_MADRID.</p>
-	<p align="left">Este proyecto es la ALPHA, el comienzo de la andanza, es ese lugar de la Mancha
+	<p align="left">Este proyecto es el GENESIS, es la ALPHA, el comienzo de la andanza, es ese lugar de la Mancha
 	de cuyo nombre no quiero acordarme... la LIBFT.</p>
 	<p align="left">Este proyecto trata de crar una libreria propia, recreando algunas de las funciones básicas 
 	incluidas en librerias de uso frecuente y común como la libreria "string.c" o la implementación de algunas
@@ -57,7 +57,7 @@
 			<li type="circle">ft_putendl_fd( )</li>
 			<li type="circle">ft_putnbr_fd( )</li>
 		</ul>
-	<h4 align=left">Parte 2 : BONUS</h4>
+	<h4 align=left">Parte 3 : BONUS</h4>
 		<ul>
 			<li type="circle">ft_lstnew( )</li>
 			<li type="circle">ft_lstadd_front( )</li>
@@ -68,5 +68,16 @@
 			<li type="circle">ft_lstclear( )</li>
 			<li type="circle">ft_lstiter( )</li>
 			<li type="circle">ft_lstmap( )</li>
+		</ul>
+	<h4 align=left">Parte 4 : Mis propias funciones</h4>
+		<ul>
+			<li type="circle">ft_isspace( )</li>
+			<li type="circle">ft_isupper( )</li>
+			<li type="circle">ft_islower( )</li>
+			<li type="circle">ft_iscntrl( )</li>
+			<li type="circle">ft_isxdigit( )</li>
+			<li type="circle">ft_isgraph( )</li>
+			<li type="circle">ft_ispunct( )</li>
+			<li type="circle">ft_memccpy( )</li>
 		</ul>
 </div>
