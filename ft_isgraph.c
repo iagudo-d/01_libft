@@ -6,7 +6,7 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/28 00:07:59 by iagudo-d          #+#    #+#             */
-/*   Updated: 2022/10/28 00:08:24 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:06:58 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,6 +50,8 @@
  *		(0) -	Non Alphanumeric symbol.
  *
  */
+
+#include "libft.h"
 
 int	ft_isgraph(int c)
 {

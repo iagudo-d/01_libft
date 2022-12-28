@@ -6,11 +6,11 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 23:06:36 by iagudo-d          #+#    #+#             */
-/*   Updated: 2022/10/28 00:06:35 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:07:58 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {

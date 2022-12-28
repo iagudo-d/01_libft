@@ -6,7 +6,7 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/28 00:07:35 by iagudo-d          #+#    #+#             */
-/*   Updated: 2022/10/28 00:08:48 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:06:59 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,6 +47,8 @@
  *		(0)		-	Non control character.
  *
  */
+
+#include "libft.h"
 
 int	ft_iscntrl(int c)
 {

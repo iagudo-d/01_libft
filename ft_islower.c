@@ -6,7 +6,7 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/22 16:10:37 by marvin            #+#    #+#             */
-/*   Updated: 2022/10/28 00:03:34 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:06:57 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,6 +47,8 @@
  *		(0) -	Non Alphabetical Lowercase symbol.
  *
  */
+
+#include "libft.h"
 
 int	ft_islower(int c)
 {

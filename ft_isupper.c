@@ -6,7 +6,7 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/28 00:10:37 by iagudo-d          #+#    #+#             */
-/*   Updated: 2022/10/28 00:10:40 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:07:06 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,6 +47,8 @@
  *		(0) -	Non Alphabetical Uppercase char.
  *
  */
+
+#include "libft.h"
 
 int	ft_isupper(int c)
 {

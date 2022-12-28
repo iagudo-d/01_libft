@@ -6,7 +6,7 @@
 /*   By: iagudo-d <iagudo-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/28 00:10:25 by iagudo-d          #+#    #+#             */
-/*   Updated: 2022/10/28 00:10:29 by iagudo-d         ###   ########.fr       */
+/*   Updated: 2022/12/28 22:07:13 by iagudo-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,6 +47,8 @@
  *		(0) 	-	Non Hexadecimal digit.
  *
  */
+
+#include "libft.h"
 
 int	ft_isxdigit(int c)
 {
